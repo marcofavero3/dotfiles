@@ -1,0 +1,2 @@
+# dotfiles
+config archlinux + hyprland
